@@ -1,9 +1,9 @@
 ## What is Markdown
 
-It is a writing format as supposed to a publishing format like HTML or
+It's a writing format as supposed to a publishing format like HTML or
 PDF. Writing format is the original source for a writing document like a
-blog post. Markdown is based in plain text/human-readable.
-As a minimal markup language it provides a simple, compact
+blog post. Markdown is based on plain text/human-readable.
+As a minimal markup language, it provides a simple, compact
 syntax (formatting) so it doesn't get in the way of your content.
 
 Markdown is a lightweight open source markup language that you can use

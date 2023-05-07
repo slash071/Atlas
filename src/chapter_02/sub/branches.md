@@ -68,8 +68,8 @@ git merge add --no-ff
 See all changes in branches:
 
 ```bash
-git log --oneline -graph --decorate       #for current branch
-git log --oneline -graph --decorate --all #for all branches
+git log --oneline --graph --decorate       #for current branch
+git log --oneline --graph --decorate --all #for all branches
 ```
 
 #### Conflicts happend on merging
